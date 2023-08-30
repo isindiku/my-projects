@@ -1,2 +1,2 @@
 # my-projects
-Welcome to my project page. Here I inyend to publish some of my work.
+Welcome to my project page. Here I intend to publish some of my work.
